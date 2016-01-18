@@ -2,7 +2,7 @@
 
 Flixer is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 1 hour spent in total
+Time spent: 6 hour spent in total
 
 ## User Stories
 
