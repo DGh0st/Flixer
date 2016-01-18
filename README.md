@@ -15,15 +15,21 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-- [ ] User sees an error message when there's a networking error.
+- [x] User sees an error message when there's a networking error.
 - [ ] Movies are displayed using a CollectionView instead of a TableView.
-- [ ] User can search for a movie.
-- [ ] All images fade in as they are loading.
-- [ ] Customize the UI.
+- [x] User can search for a movie. (non-case sensitive)
+- [x] All images fade in as they are loading.
+- [x] Customize the UI.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+
+    - [x] Dismiss keyboard on tap or table view swipe.
+
+    - [x] Hide search bar by default, keyboard search tap and view tap while search bar is empty.
+
+    - [x] Attempt to load data on app start for convenience.
 
 ## Video Walkthrough 
 
@@ -37,7 +43,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-The coding was not difficult, but debugging a forgotten ":" took 15-20 mins to figure out for the refresh control portion. 
+The coding was not difficult, but debugging a forgotten ":" took 15-20 mins to figure out for the refresh control portion. Customizing the UI took a lot of experimenting. The property to dismiss the keyboard on table swipe took a while to find. Hiding search bar took most of the time (2 hours maybe) as I was trying to do it with UITableView's scrollToRowAtIndex instead of using the setContentOffset.
 
 ## License
 
