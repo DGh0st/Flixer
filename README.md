@@ -24,11 +24,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-
     - [x] Dismiss keyboard on tap or table view swipe.
-
     - [x] Hide search bar by default, keyboard search tap and view tap while search bar is empty.
-
     - [x] Attempt to load data on app start for convenience.
 
 ## Video Walkthrough 
