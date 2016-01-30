@@ -1,8 +1,8 @@
-# Project 1 - Flixer
+# Project 1 - **Flixer**
 
-Flixer is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Flixer** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 6 hour spent in total
+Time spent: **6** hour spent in total
 
 ## User Stories
 
@@ -59,11 +59,11 @@ The coding was not difficult, but debugging a forgotten ":" took 15-20 mins to f
     limitations under the License.
 
 
-# Project 2 - Flixer
+# Project 2 - **Flixer**
 
-Flixer is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**Flixer** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 5 hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -93,7 +93,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/usy3Sif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
